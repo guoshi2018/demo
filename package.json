@@ -1,0 +1,9 @@
+{
+  "name": "gitdemo",
+  "version": "0.0.0",
+  "description": "gitdemo",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
