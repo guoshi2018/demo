@@ -1,1 +1,2 @@
 1.local content for two.txt
+2.remote content for two.txt
